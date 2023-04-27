@@ -1,0 +1,40 @@
+- Agify.io
+Predict the age of a person based on their name.
+
+Sample API URL:
+
+https://api.agify.io?name=meelad
+
+
+- Genderize.io
+Predict the gender of a person based on their name.
+
+Sample API URL:
+
+https://api.genderize.io?name=luc
+
+
+- Nationalize.io
+Predict the nationality of a person based on their name.
+
+Sample API URL:
+
+https://api.nationalize.io?name=nathaniel
+
+RandomUser
+Get information about a random fake user, including gender, name, email, address, etc.
+
+Sample API URL:
+
+https://randomuser.me/api/
+
+
+DataMagic
+
+El sistema debera mostrar la edad, El genero y la nacionalidad de una persona basado en el nombre de la persona.
+
+En caso de tener probabilidades como resultados de la API, mostrar el resultado con la probabilidad mas alta.
+
+El nombre podra ser ingresado a mano o generado aleatoriamente a travez de la API RandomUser
+
+El Sistema debera guardar los nombres ya calculados con sus resultados obtenidos y listarlos en una tabla.
