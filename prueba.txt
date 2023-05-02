@@ -45,4 +45,16 @@ Sample API URL:
 https://randomuser.me/api/
 
 
-consegui una api que nos entregue la banderita
+para que el boton submit sirva tiene que ir en etiqueta form
+
+conseguir una api que nos entregue la banderita
+
+Revisar Servicios. 
+LocalStorage. 
+if con el section
+Hacer objeto con DATA. 
+
+implementar 3 componentes
+1 nombre
+2. datos
+3. Lista de nombres. 
